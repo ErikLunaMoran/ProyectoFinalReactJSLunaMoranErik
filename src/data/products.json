@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Fawna Gatito",
+    "box_year": 2022,
+    "category": "Fawna",
+    "img": "https://baires-sa.com.ar/img_productos/FAWNA_gatitos.png"
+  },
+  {
+    "id": 2,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Fawna Gato Adulto",
+    "box_year": 2022,
+    "category": "Fawna",
+    "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_adulto.png"
+  },
+  {
+    "id": 3,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Fawna Gato Esterilizado",
+    "box_year": 2022,
+    "category": "Fawna",
+    "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_esterilizado.png"
+  },
+  {
+    "id": 4,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Fawna Gato Urinario",
+    "box_year": 2022,
+    "category": "Fawna",
+    "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_urinario.png"
+  },
+  {
+    "id": 5,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Old Prince Proteínas Noveles Kitten",
+    "box_year": 2019,
+    "category": "Old Prince",
+    "img": "https://baires-sa.com.ar/img_productos/02171437_RendersKitten.png"
+  },
+  {
+    "id": 6,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Old Prince Proteínas Noveles Adult Cat",
+    "box_year": 2019,
+    "category": "Old Prince",
+    "img": "https://baires-sa.com.ar/img_productos/02171537_RendersGatosAdultos.png"
+  },
+  {
+    "id": 7,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Old Prince Proteínas Noveles Sterilized",
+    "box_year": 2019,
+    "category": "Old Prince",
+    "img": "https://baires-sa.com.ar/img_productos/02171637_RendersGatosCastrados.png"
+  },
+  {
+    "id": 8,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Kongo Gatitos Sabor Carne y Leche",
+    "box_year": 2010,
+    "category": "Kongo",
+    "img": "https://baires-sa.com.ar/img_productos/11021636_BairesKongoGatosPacks03.png"
+  },
+  {
+    "id": 9,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Kongo Gatos Adultos Sabor Salmón y Atún",
+    "box_year": 2010,
+    "category": "Kongo",
+    "img": "https://baires-sa.com.ar/img_productos/11021635_BairesKongoGatosPacks02.png"
+  },
+  {
+    "id": 10,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Kongo Gatos Adultos Sabor Carne y Pollo",
+    "box_year": 2010,
+    "category": "Kongo",
+    "img": "https://baires-sa.com.ar/img_productos/11021633_BairesKongoGatosPacks01.png"
+  },
+  {
+    "id": 11,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Company Gatitos",
+    "box_year": 2008,
+    "category": "Company",
+    "img": "https://baires-sa.com.ar/img_productos/RenderCompanygatitos.png"
+  },
+  {
+    "id": 12,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Company Gatos Adultos",
+    "box_year": 2008,
+    "category": "Company",
+    "img": "https://baires-sa.com.ar/img_productos/RenderCompanyGatos.png"
+  },
+  {
+    "id": 13,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Maintenance Criadores Gatos Adultos",
+    "box_year": 2000,
+    "category": "Maintenance",
+    "img": "https://baires-sa.com.ar/img_productos/RenderMiantenancegatos.png"
+  },
+  {
+    "id": 15,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Voraz Gatito",
+    "box_year": 2000,
+    "category": "Voraz",
+    "img": "https://baires-sa.com.ar/img_productos/11051412_BairesVorazPacks02Gatos.png"
+  },
+  {
+    "id": 16,
+    "box_factory": "Agroindustrias Baires",
+    "box_model": "Voraz Gatos Adultos",
+    "box_year": 2000,
+    "category": "Voraz",
+    "img": "https://baires-sa.com.ar/img_productos/11051411_BairesVorazPacks01Gatos.png"
+  }
+]
