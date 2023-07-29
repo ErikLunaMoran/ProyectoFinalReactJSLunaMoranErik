@@ -10,7 +10,7 @@ import data from "../data/products.json";
 const categories = data.map((product) => product.category);
 const unique = new Set(categories);
 
-console.log([...unique]);
+/* console.log([...unique]); */
 
 export const NavBar = () => (
   <Navbar bg="dark" variant="dark">
