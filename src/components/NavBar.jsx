@@ -3,7 +3,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import { NavLink, Link } from "react-router-dom";
 
-import { CartWidget } from "./CartWidget";
+import CartWidget from "./CartWidget";
 
 import data from "../data/products.json";
 
@@ -24,6 +24,11 @@ export const NavBar = () => (
             {item}
           </NavLink>
         ))}
+        {/* <ul>
+          <li>
+            <CartWidget />
+          </li>
+        </ul> */}
       </Nav>
       <CartWidget />
     </Container>
