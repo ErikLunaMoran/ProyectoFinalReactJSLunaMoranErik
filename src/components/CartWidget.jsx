@@ -1,4 +1,6 @@
 import cart from "../assets/cart.png";
+import { CartContext } from "../context/CartContext";
+import React, { useContext } from "react";
 
 const styles = {
   img: {
@@ -11,9 +13,12 @@ const styles = {
   },
 };
 
-export const CartWidget = () => (
-  <>
-    <img src={cart} style={styles.img} alt="Carrito de compras" />
-    <span style={styles.span}>0</span>
-  </>
-);
+export const CartWidget = () => {
+  const { cantidadEnCarrito } = useContext(CartContext);
+  return (
+    <>
+      <img src={cart} style={styles.img} alt="Carrito de compras" />
+      <span style={styles.span}>{cantidadEnCarrito()}</span>
+    </>
+  );
+};

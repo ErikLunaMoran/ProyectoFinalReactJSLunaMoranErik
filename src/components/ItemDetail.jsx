@@ -3,7 +3,7 @@ import ItemCount from "./ItemCount";
 import { CartContext } from "../context/CartContext";
 
 export const ItemDetail = ({ box }) => {
-  const { carrito, setCarrito } = useContext(CartContext);
+  const { carrito, agregarAlCarrito } = useContext(CartContext);
   console.log(carrito);
 
   const [cantidad, setCantidad] = useState(1);
@@ -14,22 +14,6 @@ export const ItemDetail = ({ box }) => {
 
   const handleSumar = () => {
     cantidad < box.stock && setCantidad(cantidad + 1);
-  };
-
-  const handleAgregar = () => {
-    const itemAgregado = { ...box, cantidad };
-
-    const nuevoCarrito = [...carrito];
-    const estaEnElCarrito = carrito.find(
-      (producto) => producto.id === itemAgregado.id
-    );
-
-    if (estaEnElCarrito) {
-      estaEnElCarrito.cantidad += cantidad;
-    } else {
-      nuevoCarrito.push(itemAgregado);
-    }
-    setCarrito(nuevoCarrito);
   };
 
   return (
@@ -43,7 +27,9 @@ export const ItemDetail = ({ box }) => {
         cantidad={cantidad}
         handleSumar={handleSumar}
         handleRestar={handleRestar}
-        handleAgregar={handleAgregar}
+        handleAgregar={() => {
+          agregarAlCarrito(box, cantidad);
+        }}
       />
 
       <img className="img-detail" src={box.img} alt={box.box_model} />
