@@ -11,7 +11,6 @@ export const ItemListContainer = (props) => {
   const category = useParams().category;
 
   useEffect(() => {
-    console.log("Category:", category);
     const loadProductsFromFirestore = async () => {
       try {
         const productosRef = collection(db, "products");

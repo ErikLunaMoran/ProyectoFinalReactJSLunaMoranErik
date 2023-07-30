@@ -6,6 +6,7 @@ import { NavBar } from "./components/NavBar";
 import "./App.css";
 import { CartProvider } from "./context/CartContext";
 import Carrito from "./components/Carrito";
+import Checkout from "./components/Checkout";
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
             />
             <Route path="/item/:id" element={<ItemDetailContainer />} />
             <Route path="/carrito" element={<Carrito />} />
+            <Route path="/checkout" element={<Checkout />} />
           </Routes>
         </BrowserRouter>
       </CartProvider>
