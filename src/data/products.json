@@ -6,8 +6,8 @@
     "box_year": 2022,
     "category": "Fawna",
     "img": "https://baires-sa.com.ar/img_productos/FAWNA_gatitos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 7800,
+    "stock": 15
   },
   {
     "id": 2,
@@ -16,8 +16,8 @@
     "box_year": 2022,
     "category": "Fawna",
     "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_adulto.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 7800,
+    "stock": 10
   },
   {
     "id": 3,
@@ -26,8 +26,8 @@
     "box_year": 2022,
     "category": "Fawna",
     "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_esterilizado.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 7800,
+    "stock": 15
   },
   {
     "id": 4,
@@ -36,8 +36,8 @@
     "box_year": 2022,
     "category": "Fawna",
     "img": "https://baires-sa.com.ar/img_productos/FAWNA_gato_urinario.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 7800,
+    "stock": 16
   },
   {
     "id": 5,
@@ -46,8 +46,8 @@
     "box_year": 2019,
     "category": "Old Prince",
     "img": "https://baires-sa.com.ar/img_productos/02171437_RendersKitten.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 6000,
+    "stock": 21
   },
   {
     "id": 6,
@@ -56,8 +56,8 @@
     "box_year": 2019,
     "category": "Old Prince",
     "img": "https://baires-sa.com.ar/img_productos/02171537_RendersGatosAdultos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 6000,
+    "stock": 10
   },
   {
     "id": 7,
@@ -66,8 +66,8 @@
     "box_year": 2019,
     "category": "Old Prince",
     "img": "https://baires-sa.com.ar/img_productos/02171637_RendersGatosCastrados.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 6000,
+    "stock": 18
   },
   {
     "id": 8,
@@ -76,8 +76,8 @@
     "box_year": 2010,
     "category": "Kongo",
     "img": "https://baires-sa.com.ar/img_productos/11021636_BairesKongoGatosPacks03.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 4500,
+    "stock": 23
   },
   {
     "id": 9,
@@ -86,8 +86,8 @@
     "box_year": 2010,
     "category": "Kongo",
     "img": "https://baires-sa.com.ar/img_productos/11021635_BairesKongoGatosPacks02.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 4500,
+    "stock": 14
   },
   {
     "id": 10,
@@ -96,8 +96,8 @@
     "box_year": 2010,
     "category": "Kongo",
     "img": "https://baires-sa.com.ar/img_productos/11021633_BairesKongoGatosPacks01.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 4500,
+    "stock": 10
   },
   {
     "id": 11,
@@ -106,8 +106,8 @@
     "box_year": 2008,
     "category": "Company",
     "img": "https://baires-sa.com.ar/img_productos/RenderCompanygatitos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 3800,
+    "stock": 17
   },
   {
     "id": 12,
@@ -116,8 +116,8 @@
     "box_year": 2008,
     "category": "Company",
     "img": "https://baires-sa.com.ar/img_productos/RenderCompanyGatos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 3800,
+    "stock": 13
   },
   {
     "id": 13,
@@ -126,27 +126,27 @@
     "box_year": 2000,
     "category": "Maintenance",
     "img": "https://baires-sa.com.ar/img_productos/RenderMiantenancegatos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 2500,
+    "stock": 25
   },
   {
-    "id": 15,
+    "id": 14,
     "box_factory": "Agroindustrias Baires",
     "box_model": "Voraz Gatito",
     "box_year": 2000,
     "category": "Voraz",
     "img": "https://baires-sa.com.ar/img_productos/11051412_BairesVorazPacks02Gatos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 2000,
+    "stock": 24
   },
   {
-    "id": 16,
+    "id": 15,
     "box_factory": "Agroindustrias Baires",
     "box_model": "Voraz Gatos Adultos",
     "box_year": 2000,
     "category": "Voraz",
     "img": "https://baires-sa.com.ar/img_productos/11051411_BairesVorazPacks01Gatos.png",
-    "precio": 1500,
-    "stock": 12
+    "precio": 2000,
+    "stock": 23
   }
 ]
